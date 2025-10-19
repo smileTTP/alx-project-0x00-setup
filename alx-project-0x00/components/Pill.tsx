@@ -7,4 +7,4 @@ const Pill: React.FC = () => {
     )
 }
 
-export default Pill
+export default Pill;
